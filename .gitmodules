@@ -3,4 +3,4 @@
 	url = https://github.com/calintat/minimal.git
 [submodule "public"]
 	path = public
-	url = https://codeberg.org/FreeSoftwarePoland/pages
+	url = git@codeberg.org:FreeSoftwarePoland/pages.git
