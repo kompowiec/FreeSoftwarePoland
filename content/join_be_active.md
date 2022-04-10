@@ -11,6 +11,7 @@ co można zrobić poniżej zamieszczę kilka rzeczy od których mógłbyś spró
 
 - IRC irc.libera.chat/6665 kanał: #fsf-pl
 - Telegram https://t.me/free_software_poland
+- [LibrePlanet](https://libreplanet.org/wiki/Group:Poland#B.C4.85d.C5.BA_z_nami)
 - Możesz też spróbować prowadzić własny kanał na dowolnym komunikatorze, który lubisz. Ważne aby się nie powtarzać, więc upewnij się, czy coś już nie istnieje.
 
 Pozwoli to na utrzymanie morali i dobrego wrażenia dla przybywających, że są ludzie. A czasem warto po prostu czytać co piszą inni.
