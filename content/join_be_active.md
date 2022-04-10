@@ -8,17 +8,19 @@ Każdy chętny może czuć się zaproszony do uczestnictwa i rozwoju grupy. Z ra
 co można zrobić poniżej zamieszczę kilka rzeczy od których mógłbyś spróbować zacząć działać:
 
 1. Dołącz na istniejące kanały i postaraj się na nich być nawet jeśli nie jesteś aktywny.
-
-- IRC irc.libera.chat/6665 kanał: #fsf-pl
-- Telegram https://t.me/free_software_poland
+# Czat
+- **IRC:** irc://irc.libera.chat/#fsf-pl ([czat w przeglądarce](https://kiwiirc.com/client/irc.libera.chat/#fsf-pl))
+- **Matrix:** [+fsf-pl:libera.chat](https://matrix.to/#/#fsf-pl:libera.chat)
+- **XMPP/jabber:** xmpp:#fsf-pl%irc.libera.chat@irc.snopyta.org?join
+- **Telegram:** <https://t.me/free_software_poland>
 - [LibrePlanet](https://libreplanet.org/wiki/Group:Poland#B.C4.85d.C5.BA_z_nami)
-- Możesz też spróbować prowadzić własny kanał na dowolnym komunikatorze, który lubisz. Ważne aby się nie powtarzać, więc upewnij się, czy coś już nie istnieje.
+Możesz też spróbować prowadzić własny kanał na dowolnym komunikatorze, który lubisz. Ważne aby się nie powtarzać, więc upewnij się, czy coś już nie istnieje.
 
 Pozwoli to na utrzymanie morali i dobrego wrażenia dla przybywających, że są ludzie. A czasem warto po prostu czytać co piszą inni.
 
 2. Pisz posty na stronie
 
-Nie czekaj, aż ktoś stworzy coś wartościowe za Ciebie. Dana strona jest wersjonowana (używa git'a), zamiast dywagować z kolegami lepiej zebrać myśli i pomysły.
+Nie czekaj, aż ktoś stworzy coś wartościowego za Ciebie. Dana strona jest wersjonowana (używa git'a), zamiast dywagować z kolegami lepiej zebrać myśli i pomysły.
 Napisać je do szerszego grona i podzielić się z kolegą linkiem. Jak to zrobić:
 
 - Załóż konto na https://codeberg.org/
