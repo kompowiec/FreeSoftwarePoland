@@ -11,7 +11,7 @@ co można zrobić poniżej zamieszczę kilka rzeczy od których mógłbyś spró
 # Czat
 - **IRC:** irc://irc.libera.chat/#fsf-pl ([czat w przeglądarce](https://kiwiirc.com/client/irc.libera.chat/#fsf-pl))
 - **Matrix:** [+fsf-pl:libera.chat](https://matrix.to/#/#fsf-pl:libera.chat)
-- **XMPP/jabber:** xmpp:#fsf-pl%irc.libera.chat@irc.snopyta.org?join
+- **XMPP/jabber:** xmpp:#fsf-pl%irc.libera.chat@irc.jabb.im?join
 - **Telegram:** <https://t.me/free_software_poland>
 - [LibrePlanet](https://libreplanet.org/wiki/Group:Poland#B.C4.85d.C5.BA_z_nami)
 Możesz też spróbować prowadzić własny kanał na dowolnym komunikatorze, który lubisz. Ważne aby się nie powtarzać, więc upewnij się, czy coś już nie istnieje.
