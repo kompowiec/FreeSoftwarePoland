@@ -3,6 +3,12 @@ title: Dołącz i bądź aktywny
 description: Jak zacząć?
 ---
 
+# Uwaga !!!
+
+Grupa posiada liste mailingową na którą warto się zapisać [tutaj](https://lists.libreplanet.org/mailman/listinfo/libreplanet-pl)
+
+## Jak zacząć?
+
 Jesteśmy grupą non-profit otwartą na nowych członków. Staramy się stworzyć kulturę wolnego oprogramowania w Polsce.
 Każdy chętny może czuć się zaproszony do uczestnictwa i rozwoju grupy. Z racji, że nie zawsze jest jasne,
 co można zrobić poniżej zamieszczę kilka rzeczy od których mógłbyś spróbować zacząć działać:
