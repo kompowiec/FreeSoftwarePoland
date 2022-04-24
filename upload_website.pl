@@ -13,6 +13,8 @@ unless (@files) {
 
 system "hugo";
 system "git -C $PUBLIC_DIR add -A";
+# dodana linia xmszkn
+system "git -C $PUBLIC_DIR checkout master";
 
 my $current_date = `date +"%d/%m/%Y %H:%M"`;
 system qq|git -C $PUBLIC_DIR commit -a -m "site update: $current_date"|;
