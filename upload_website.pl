@@ -25,7 +25,7 @@ system "git push origin master";
 
 =pod
 =head1 COPYRIGHT
-Copyright 2022 Daniel Maksymow, Piotr J�wik
+Copyright 2022 Daniel Maksymow, Piotr Jóźwik
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
