@@ -14,6 +14,8 @@ data=`date`
 git commit -a -m "site update: $data"
 git push origin master
 cd ..
-git add public
+git add .
 git commit -a -m "www update: $data"
 git push origin master
+
+#alternatywny skrypt autor xmszkn
