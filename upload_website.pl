@@ -13,7 +13,6 @@ unless (@files) {
 
 system "hugo";
 system "git -C $PUBLIC_DIR add -A";
-# dodana linia xmszkn
 system "git -C $PUBLIC_DIR checkout master";
 
 my $current_date = `date +"%d/%m/%Y %H:%M"`;
@@ -25,7 +24,7 @@ system "git push origin master";
 
 =pod
 =head1 COPYRIGHT
-Copyright 2022 Daniel Maksymow, Piotr Jóźwik
+Copyright 2022 Daniel Maksymow, Piotr Jozwik
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
