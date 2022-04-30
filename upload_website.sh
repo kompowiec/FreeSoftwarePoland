@@ -18,6 +18,10 @@ git add -A
 git commit -a -m "www update: $data"
 git push origin master
 
+name=`whoami`
+echo "Zmodyfikowałeś repozytorium www i strone pages"
+sleep 1
+echo "Nice day $name"
 
 #Copyright 2022 Piotr Jozwik
 #
