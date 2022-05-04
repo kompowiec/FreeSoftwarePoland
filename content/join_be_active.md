@@ -22,7 +22,7 @@ co można zrobić poniżej zamieszczę kilka rzeczy od których mógłbyś spró
 - [LibrePlanet](https://libreplanet.org/wiki/Group:Poland#B.C4.85d.C5.BA_z_nami)
 - Możesz też spróbować prowadzić własny kanał na dowolnym komunikatorze, który lubisz. Ważne aby się nie powtarzać, więc upewnij się, czy coś już nie istnieje.
 
-Pozwoli to na utrzymanie morali i dobrego wrażenia dla przybywających, że są ludzie. A czasem warto po prostu czytać co piszą inni.
+Pozwoli to na utrzymanie morale i dobrego wrażenia dla przybywających, że są ludzie. A czasem warto po prostu czytać co piszą inni.
 
 2. Nagrywaj filmy o wolnym oprogramowaniu lub tłumacz istniejące.
 - **Wideo hosting** [midov.pl/free_software_poland](https://tube.midov.pl/c/free_software_poland/)
@@ -32,21 +32,11 @@ Pozwoli to na utrzymanie morali i dobrego wrażenia dla przybywających, że są
 Nie czekaj, aż ktoś stworzy coś wartościowego za Ciebie. Dana strona jest wersjonowana (używa git'a), zamiast dywagować z kolegami lepiej zebrać myśli i pomysły.
 Napisać je do szerszego grona i podzielić się z kolegą linkiem. Jak to zrobić:
 
-- Załóż konto na https://codeberg.org/
-- Zapoznaj się z działaniem git'a lub poproś o pomoc grupy
-- Przedstaw się, zbuduj zaufanie i poproś o dołączenie do grupy **FreeSoftwarePoland**
-- Gdy już jesteś częścią grupy sklonuj repozytorium https://codeberg.org/FreeSoftwarePoland/www
-- Repozytorium jest generatorem statycznej strony opartą o generator [Hugo](https://gohugo.io/getting-started/quick-start/) 
+**[Instrukcja modyfikowania i dodawania treści na stronie](https://codeberg.org/FreeSoftwarePoland/www/wiki/Instrukcja-modyfikowania-i-dodawania-tre%C5%9Bci-na-stronie)**
 
-  * w katalogu *content* znajdują się pliki Markdown z treścią strony
-  * przy pomocy komendy _hugo new post/nazwa_postu.md_ wygenerujemy nowy szablon postu
-  * _hugo server_ umożliwia monitorowanie w trybie live zmiany na stronie
-  * nie zapomnij użyć git'a, aby zaktualizować repozytorium ze stroną **www**
-  * gdy jesteś gotów odpal skrypt: _./upload_website.pl_, który zsynchronizuje zmiany z wyświetlaną stroną [fsf-pl](https://freesoftwarepoland.codeberg.page/)
+W zależności od umiejętności możesz spróbować ulepszyć stronę, bądź ją rozbudować o inne treści, poprawić istniejące. Każdy gest jest mile widziany.
 
-  W zależności od umiejętności możesz spróbować ulepszyć stronę, bądź ją rozbudować o inne treści, poprawić istniejące. Każdy gest jest mile widziany.
-
-  Jeśli jednak nie posiadasz umiejętności wyżej opisanych, a masz już gotowy tekst wystarczy wysłać go na mail: fsf.poland@disroot.org
+Jeśli jednak nie posiadasz umiejętności wyżej opisanych, a masz już gotowy tekst wystarczy wysłać go na mail: fsf.poland@disroot.org
 
 4. Dla użytkowników bardziej zaawansowanych. Proponujemy zakładanie projektów w ramach FSF Polska.
 
