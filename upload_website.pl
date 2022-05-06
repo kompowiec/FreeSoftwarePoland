@@ -8,16 +8,15 @@ closedir $dir;
 
 unless (@files) {
   system "git -C $PUBLIC_DIR submodule init";
-  system "git -C $PUBLIC_DIR submodule update";
 }
+system "git -C $PUBLIC_DIR submodule update";
 
 system "hugo";
 system "git -C $PUBLIC_DIR add -A";
-system "git -C $PUBLIC_DIR checkout master";
 
 my $current_date = `date +"%d/%m/%Y %H:%M"`;
 system qq|git -C $PUBLIC_DIR commit -a -m "site update: $current_date"|;
-system "git -C $PUBLIC_DIR push origin master";
+system "git -C $PUBLIC_DIR push -f origin master";
 system "git add public";
 system qq|git commit -a -m "www update: $current_date"|;
 system "git push origin master";
