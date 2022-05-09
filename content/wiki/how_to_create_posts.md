@@ -40,8 +40,9 @@ Strona musi znajdowac się w repozytorium 'pages', jak to działa wyjaśnione je
     W katalogu /content/ oraz /conten/post/  znajdują się pliki *.md  z treścią strony i to je powinieneś edytować.
     W katalogu /public/ znajduje się statyczna strona w html, nie edytuj, wygeneruje je Hugo!
     Aby dodawać nowe posty powinieneś zainstalować tą aplikacje.
-    Przy pomocy ```$ hugo new /post/nazwa_postu.md``` genereujesz nowy wpis na bloga.
-    Następnie edytujesz plik w swoim ulubionym [edytorze](https://www.gnu.org/software/emacs/), używając znaczników markdown.
+    Następnie edytujesz plik w swoim ulubionym [edytorze](https://www.gnu.org/software/emacs/), używając znaczników markdown bądź [org](https://orgmode.org/)
+    Gdy będziesz w głównym katalogu www, przy pomocy ```$ hugo new ``` wygenereujesz nowy wpis na bloga.
+    W razie zobaczenia pustej strony, pobierz używany przez nas [theme](https://github.com/calintat/minimal) do katalogu /theme/minimal
     Gdy skończysz uruchom ```$ hugo server``` pozwoli to zobaczyc zmiany na zywo pod adres http://localhost:1313
     Jeśli zmiany są ok, przejdź dalej.
 
