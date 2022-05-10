@@ -1,16 +1,13 @@
 #!/bin/bash
 
-cd public/
-
 git submodule init
 git submodule update
 
-cd ..
 hugo
 cd public/
 git add -A
 git checkout master
-data=`date`
+data=`date +"%d/%m/%Y %R"`
 git commit -a -m "site update: $data"
 git push origin master
 cd ..
@@ -19,7 +16,7 @@ git commit -a -m "www update: $data"
 git push origin master
 
 name=`whoami`
-echo "Zmodyfikowałeś repozytorium www i strone pages"
+echo "Zmodyfikowałeś repozytorium WWW i PAGES"
 sleep 1
 echo "Nice day $name"
 
