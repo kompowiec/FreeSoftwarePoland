@@ -1,0 +1,44 @@
+---
+title: "Nowe życie Samsunga S4"
+date: 2022-05-12T22:55:26+02:00
+tags: ["lineageos"]
+draft: true
+---
+#+Author: xmszkn
+
+*** Apple vs. Google? Czy mamy alterantywe?
+
+Od kilku lat jestem użytkownikiem telefonu z systemem iOs od nielubianego przez ruch na rzecz wolnego oprogramowania wielkiego koncernu Apple.
+https://stallman.org/apple.html
+
+Jestem zadowolony z obslugi, działania i własności ergonimicznego mojego małego Iphone SE. Jednakże jako świadomy użytkownik oprogramowania i entuzjasta
+wolnego oprogramowania, uznając sporą część argumentów przeciwko używania produktów apple, szukam od kilku tygodni alternatywy.
+
+Dla przeciętnego użytkownika telefonów alterantywą jest Android od Google lub ewentualnie Android od chińskiego producenta smartofonów np. OxygenOs.
+Oczywiście mało kto bierze pod uwagę telefon z GNU/Linux od PinePhone czy starsze jak Librem. Wybór wydaje się fatalny z jednej strony iOs i aplikacje pisane
+na niego, a więc oprogramowanie zamknięte i z drugiej również android z zamkniętym oprogramowaniem od Google lub chińskiego odpowiednika. Pozatym zakup nowego
+telefonu odrzuciłem z uwagi na rosnące ceny elektroniki. Tak więc PinePhone jest w sferze moich marzeń.
+
+I tu pojawia sie Lineage Os w wersji 18.1, który pozwala na tchnienie nowego życia w stary (tzn. kilku letni), nie wspierany przez producenta sprzęt.
+Okazało się, że jestem w posiadanu Samsunga S4, którego właśnie porzuciłem na rzecz IphoneSe. Cóż telefon nadal sprawny, noszący ślady użytkowania. Niestety
+system operacyjny to nie-wolny android 5.0, wiele aplikacji nie będzie już pracować na nim, a i z bezpieczeństwem nie będzie najlepiej.
+
+Postanowiłem na w/w zainstalować system Lineaage Os. S4 ma oficjalne wsparcie i jest na nią dostępna najnowsza wersja. (lista device)
+
+Instalacja jest prosta, choć instrukcja z oficjalnej strony jest niepełna. Po pierwsze należy zainstalować "recovery" przez specjalny tryb dla Samsunga
+obsługiwany przez narzędzie Odin, które można ściągnąć ze strony Samsunga. Niestety jest ono dostępne pod windows, naszczęście istnieje JOdin napisany
+w Javie odpowiednik dla GNU/Linux. Choć robiłem to pierwszy raz poradziłem sobie po ok 1h. Potrzebujemy na koniec wgrać system za pomocą tu już banalnie
+prostej metody z wykorzystaniem narzędzia ADB. (Instrukcja instalacji LinOs ukaże się niedługo w dziale Wiki).
+
+*** Co otrzymałem, a więc wrażenia
+
+Porównać do Iphone 5s, 6 ,> ciezko bo wyszly pozniej 6s SE
+
+Napisac o braku google, sklepach fdroid, aurora
+
+*** Podsumowanie
+
+Tani sprzet, z świetnym systemem, Wolnosc wyboru, aplikacji od googla, sklepów, poziom pure bez niczego
+bezpieczenstwo, prywatnosc.
+
+

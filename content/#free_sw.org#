@@ -1,0 +1,57 @@
+---
+title: "Co to jest wolne oprogramowanie?"
+date: <2022-05-10 Tue> 
+tags: ["filozofia"]
+draft: false
+---
+#+AUTHOR: kompowiec2
+#+DATE: <2022-05-09 Mon> 
+- Wolne oprogramowanie nie znaczy że jest wolne w takim sensie że działa powoli, jest to z angielskiego "free software" czyli wolne oprogramowanie, tylko nie od "free" dlatego że jest darmowe, tylko "free" z takiego jak wolność.
+
+W szerszym ujęciu, wolne oprogramowanie to koncepcja, która zakłada swobodnym dzieleniem się (z ang. /sharing/) oprogramowaniem i innymi dobrami niematerialnymi z innymi. W ujęciu węższym, to oprogramowanie, które może być uruchamiane, kopiowane, rozpowszechniane, analizowane oraz zmieniane i poprawiane przez jego użytkowników.
+
+* Jak to działa?
+Powiedzmy, że jestem stolarzem. Kiedy pracuję nad meblami do jadalni, ktoś poprosił mnie o wyprodukowanie, natykam się na potrzebę wymyślenia czegoś, co pozwoli ludziom w pokoju usiąść. Więc wymyślam krzesło. To raczej proste krzesło, bez podłokietników i nic wymyślnego, ale odpowiada mojej potrzebie: pozwolić ludziom usiąść. Tak, problem rozwiązany. Teraz mogę utrzymać mój genialny wynalazek w tajemnicy i być zazdrosny o mój cenny pomysł, **albo** mogę podzielić się nim ze światem stolarzy.
+
+Dlaczego miałbyś się tym podzielić?
+
+Ponieważ może to pomóc komuś rozwiązać ten sam problem, który napotkałem, by, powiedzmy po kilku dniach, miesiącach, a nawet latach, moje krzesło mogło wrócić do mnie z parą starych, dobrych podłokietników, które zostały wykonane przez innego stolarza na świecie. Ktoś, kto pożyczył moje krzesło, pracował nad nim i z powrotem dzielił się jego ulepszeniami. To może się powtarzać w kółko, im więcej problemów rozwiąże moje krzesło, tym więcej osób będzie pracować nad jego ulepszeniem, być może zapewniając mu wygodniejsze oparcie lub bardziej funkcjonalne nogi. W ten sposób możemy wspólnie opracować najlepsze możliwe krzesło dla danej sytuacji.
+
+To jest ta część wspólnotowości, ale nie jest ona najważniejsza w tym wszystkim. Kluczowym powodem jest to, żeby program nie był kontrolowany wyłącznie przez jego właściciela. I tu dochodzimy do pewnej abstrakcji która w tej karkołomnej analogii może budzić sprzeciw: Ale dlaczego właściciel krzesła nie ma mieć prawa dysponować swoim majątkiem?!. Nie o to chodzi. Może z niego korzystać w sposób jaki tylko chce, problem zaczyna się gdy ów właściciel narzuca to, w jaki sposób mają korzystać z dystrybuowanego przez niego krzesła, inni. I tu zaczyna się ów problem którym zajmuje się Fundacja Wolnego Oprogramowania, której założycielem jest Richard Stallman.
+
+Kto przekazuje instrukcje twojemu komputerowi[fn:0]? Możesz pomyśleć, że postępuje zgodnie z twoimi instrukcjami, kiedy naprawdę najpierw jest posłuszny komuś innemu, i tylko na tyle, na ile ów właciciel programu pozwoli mu słuchać.
+W przypadku oprogramowania istnieją dwie możliwości: Albo użytkownicy kontrolują program, lub program kontroluje użytkowników. To jest nieuniknione, jedno lub drugie. Aby użytkownicy mogli kontrolować program, potrzebują czterech zasadniczych wolności:
+
+- wolność 0: wolność uruchamiania programu, w dowolnym celu,
+- wolność 1: wolność analizowania programu oraz dostosowywania go do swoich potrzeb,
+Wolności pierwsza i trzecia mogą być spełnione tylko wtedy, gdy dostępny jest kod źródłowy[fn:1] oprogramowania[fn:2]
+
+Każdy program zazwyczaj ma dwie formy. Jest w formie, który możesz przeczytać i który możesz zrozumieć jeśli znasz język programowania[fn:3]. To jest kod źródłowy To właśnie piszą i zmieniają programiści. Następnie jest plik wykonywalny, który jest zbiorem liczb których nawet programista nie jest w stanie rozgryźć. Jeśli wszystko, co otrzymasz, to plik wykonywalny[fn:4], to jest to straszny wrzód na tyłku, aby dowiedzieć się, co robi, a jeszcze trudniej to zmienić. Tak więc, aby dać ci realną możliwość nauki i zmiany, muszą dać ci kod źródłowy. To jest wymóg.
+
+Możesz sobie zadać teraz pytanie "skoro jest możliwe się dowiedzieć co robi program nawet bez kodu źródłowego, to chyba nie ma problemu?" Żeby sobie móc to wyobrazić, dlaczego jest to problematyczne, stwórzmy prosty przykład: Idziecie do restauracji i zamawiacie sobie zupę. Na przykład dajmy na to zupę jarzynową. No i zmawiając sobie taką zupę jarzynową, no i na przykład chcielibyście sobie ugotować taką zupę w domu.  I tu zaczynają się problemy. Większość oprogramowania które używamy, może być oprogramowaniem zamkniętym, czyli takim w którym nie mamy możliwości wglądu w kod źródłowy, czyli jakby nie możemy zobaczyć przepisu na naszą zupę. Dostajemy po prostu gotową zupę i nie wiemy tak do końca co w niej jest. Oczywiście, jeśli chcielibyśmy ugotować taką zupę jak na przykład Adobe Photoshop, no to patrząc na tą zupę widzimy "mhm, no dobrze, tu są takie elementy, takie elementy" i możemy **próbować** powtórzyć tą zupę, ale nie wiemy ile ktoś dał na przykład soli, nie wiemy ile ktoś dał pieprzu, nie wiemy jak długo tą zupę gotowano. A właśnie wolne oprogramowanie, działa bardziej w taki sposób, że od razu gdy zamawiacie sobie zupę, dostajecie przepis na tą zupę oraz gotowe składniki i możecie sobie taką zupę sami ugotować.
+
+Z tymi dwiema wolnościami każdy użytkownik z osobna może sporządzić kopię i zacząć go zmieniać i sprawić, by robił to, czego chce. To jest indywidualna kontrola. Ale co, jeśli nie jesteś programistą? Patrzysz na kod źródłowy i nie rozumiesz go. Indywidualna kontrola nie wystarczy. Potrzebujemy też zbiorowej kontroli, co oznacza, że każda grupa użytkowników może ze sobą współpracować aby dostosować program do tego, czego chcą. Oczywiście w grupie część z nich to programiści. To oni faktycznie piszą zmiany, ale robią to jako część grupy za to, czego chce grupa. Oczywiście grupa nie musi być wszystkim. Inni mogą z niego skorzystać w inny sposób. Wszyscy mogą to zrobić. Zatem zbiorowa kontrola wymaga jeszcze dwóch podstawowych wolności.
+
+- wolność 2: wolność rozpowszechniania kopii programu,
+- wolność 3: wolność udoskonalania programu i publicznego rozpowszechniania własnych ulepszeń, dzięki czemu może z nich skorzystać cała społeczność.
+
+Jeśli masz wszystkie 4 wolności, to jest to wolne oprogramowanie, użytkownicy kontrolują program. Ale jeśli brakuje którejś z tych wolności, wtedy użytkownicy nie kontrolują programu. Zamiast tego program kontroluje użytkowników, a programista kontroluje program. Oznacza to więc, że ten program jest instrumentem niesprawiedliwej władzy dewelopera, nad użytkownikami. Oznacza to, że użytkownicy nie mają wolności, to jest niewolne, zastrzeżone oprogramowanie, którego musimy się pozbyć.
+
+* Bibliografia
+
+- [[https://invidious.snopyta.org/watch?v=POJ9OSENgO4][ZMASLO - WOLNE oprogramowanie]] - Licencja Creative Commons – uznanie autorstwa (ponowne wykorzystanie dozwolone)
+- [[https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society][Free software, free society - Richard Stallman at TED]]
+- [[https://pl.wiktionary.org/wiki/wolne_oprogramowanie][Wolne oprogramowanie - Wikisłownik]]
+* Autorzy
+Kompowiec2
+
+* Co to właściwie jest...
+[fn:0] **komputer** to uniwersalna maszyna, którą można zaprogramować do automatycznego wykonywania sekwencji operacji arytmetycznych lub logicznych. Współczesne komputery mogą wykonywać ogólne zestawy operacji znane jako programy. Programy te umożliwiają komputerom wykonywanie szerokiego zakresu zadań.
+
+[fn:1] **program komputerowy** i powiązane pojęcie **oprogramowanie**  - program to zestaw pewnych instrukcji. Każdy program z takich instrukcji się składa, na pewno mógłbyś podać przykłady przerożnych programów, czy to będzie program graficzny, pakiet biurowy, przeglądarka internetowa czy system operacyjny, wszystkie te programy są pewnym zestawem instrukcji, na tym się opiera cała ich zasada działania. Jedne programy mogą mieć tych instrukcji 10 czy 100 a inne 100 tysięcy a nawet milion przeróżnych instrukcji, zawsze program będzie zestawem pewnych instrukcji. I na tym polega cały proces programowania, chodzi po prostu o to żeby jakiś pomysł na program, jakąś taką pewną ideę rozbić na takie proste instrukcje, które komputer będzie w stanie zrozumieć i to jest właśnie istota procesu programowania. Masz pomysł na program i musisz go na takie proste, zrozumiałe przez komputer instrukcje po prostu, zamienić. 
+
+[fn:2] **Język programowania** - instrukcje (programy) dla komputera najczęściej piszemy za pomocą jakiegoś języka programowania, czyli tych instrukcji nie możesz sobie napisać w dowolny sposób na przykład po polsku, po angielsku czy w takim normalnym ludzkim języku, to trzeba napisać w taki sposób, żeby komputer to zrozumiał. Czyli do napisania tego całego zestawu instrukcji potrzebujesz właśnie jakiegoś języka programowania. 
+
+[fn:3] **Kod źródłowy** - to treść instrukcji programu, który najczęściej jest czystym tekstem
+
+[fn:4] **Plik wykonywalny** bądź też **kod maszynowy** - Jest to język rozumiany przez procesor komputera. Procesor jest w każdym komputerze, czy jest to stacjonarny komputer czy smartfon, wszystko to działa dzięki temu, że posiada procesor i właśnie cały ten kod maszynowy, to taki język na którym pracuje nasz sprzęt, język na którym pracuje nasz procesor. Przede wszystkim jest to język przeznaczony dla maszyny, nieczytelny dla człowieka, czyli procesor jest w stanie ten kod maszynowy odczytać, zrozumieć, ale my raczej z tym będziemy mieli problemy, dla nas będzie raczej nieczytelny. I przede wszytkim, te właśnie polecenia, które piszemy w zwykłym języku programowania, są konwertowane na kod maszynowy zrozumiały przez komputer. Bo komputer rozumie tylko ten kod maszynowy, on nie rozumie bezpośrednio tych wszystkich instrukcji które napiszemy w dowolnym języku programowania, one właśnie muszą być najpierw przekonwetowane z tego normalnego języka programowania do tego wyjściowego kodu maszynowego, tak żeby procesor mógł te wszystkie instruckje, polecenia, zrozumieć.
