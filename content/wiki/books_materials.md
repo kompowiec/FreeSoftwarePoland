@@ -13,4 +13,4 @@ draft: false
 * TODO
 
 ## Artykuły:
-* [The Catedral and the Bazar. Eric Raymond](/books/
+* [The Catedral and the Bazar. Eric Raymond](/books/)
