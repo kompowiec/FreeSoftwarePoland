@@ -2,7 +2,7 @@
 title: "Nowe życie Samsunga S4"
 date: 2022-05-12T22:55:26+02:00
 tags: ["lineageos"]
-draft: true
+draft: false
 ---
 #+Author: xmszkn
 
