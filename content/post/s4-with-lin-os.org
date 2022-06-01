@@ -8,8 +8,7 @@ draft: false
 
 *** Apple vs. Google? Czy mamy alterantywe?
 
-Od kilku lat jestem użytkownikiem telefonu z systemem iOs od nielubianego przez ruch na rzecz wolnego oprogramowania wielkiego koncernu Apple.
-https://stallman.org/apple.html
+Od kilku lat jestem użytkownikiem telefonu z systemem iOs od nielubianego przez ruch na rzecz wolnego oprogramowania wielkiego koncernu [Apple.](https://stallman.org/apple.html)
 
 Jestem zadowolony z obslugi, działania i własności ergonimicznego mojego małego Iphone SE. Jednakże jako świadomy użytkownik oprogramowania i entuzjasta
 wolnego oprogramowania, uznając sporą część argumentów przeciwko używania produktów apple, szukam od kilku tygodni alternatywy.
