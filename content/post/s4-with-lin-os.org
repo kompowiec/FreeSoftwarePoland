@@ -32,13 +32,11 @@ prostej metody z wykorzystaniem narzędzia ADB. (Instrukcja instalacji LinOs uka
 
 *** Co otrzymałem, a więc wrażenia
 
-Porównać do Iphone 5s, 6 ,> ciezko bo wyszly pozniej 6s SE
-
-Napisac o braku google, sklepach fdroid, aurora
-
-*** Podsumowanie
-
-Tani sprzet, z świetnym systemem, Wolnosc wyboru, aplikacji od googla, sklepów, poziom pure bez niczego
-bezpieczenstwo, prywatnosc.
+Tani sprzet.
+Świetny system z wolnoscią wyboru.
+Brak aplikacji od googla.
+Wolne aplikacje z F-Droid lub dowolne z Aurora.
+Bezpieczenstwo.
+Prywatnosc.
 
 
