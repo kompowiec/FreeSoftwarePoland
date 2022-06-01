@@ -22,7 +22,7 @@ I tu pojawia sie Lineage Os w wersji 18.1, który pozwala na tchnienie nowego ż
 Okazało się, że jestem w posiadanu Samsunga S4, którego właśnie porzuciłem na rzecz IphoneSe. Cóż telefon nadal sprawny, noszący ślady użytkowania. Niestety
 system operacyjny to nie-wolny android 5.0, wiele aplikacji nie będzie już pracować na nim, a i z bezpieczeństwem nie będzie najlepiej.
 
-Postanowiłem na w/w zainstalować system Lineaage Os. S4 ma oficjalne wsparcie i jest na nią dostępna najnowsza wersja. (lista device)
+Postanowiłem na w/w zainstalować system Lineaage Os. S4 ma oficjalne wsparcie i jest na nią dostępna najnowsza wersja. [Lista wspieranych urządzeń](https://wiki.lineageos.org/devices/)
 
 Instalacja jest prosta, choć instrukcja z oficjalnej strony jest niepełna. Po pierwsze należy zainstalować "recovery" przez specjalny tryb dla Samsunga
 obsługiwany przez narzędzie Odin, które można ściągnąć ze strony Samsunga. Niestety jest ono dostępne pod windows, naszczęście istnieje JOdin napisany
