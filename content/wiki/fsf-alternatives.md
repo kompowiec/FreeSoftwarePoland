@@ -31,3 +31,8 @@ W danym wiki postarano się przybliżyć ekosystem wolnych alternatyw. I wszelki
 
 - serwery poczty, lub gdzie można założyć email
 [webmail-systems](https://www.fsf.org/resources/webmail-systems)
+
+- wolny Android
+[Replicant](https://www.replicant.us/)
+- aplikacje na Replicant
+[wolne aplikacje android](https://directory.fsf.org/wiki/Collection:Replicant-expanded)
