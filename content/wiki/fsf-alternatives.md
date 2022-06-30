@@ -36,3 +36,5 @@ W danym wiki postarano się przybliżyć ekosystem wolnych alternatyw. I wszelki
 [Replicant](https://www.replicant.us/)
 - aplikacje na Replicant
 [wolne aplikacje android](https://directory.fsf.org/wiki/Collection:Replicant-expanded)
+- aplikacje na GNU/linux
+[wolne aplikacje GNU/Linux](https://directory.fsf.org/wiki/Collection:GNU/Linux.pl)
