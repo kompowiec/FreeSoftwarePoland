@@ -6,11 +6,14 @@ draft: false
 
 ## Książki
 ### Free Technology Academy:
-* [Introduction to Software Development](/books/IntroductionToSoftwareDevelopment.pdf)
-* [Introduction to Free Software](/books/IntroductionToFreeSoftware.pdf)
+* [Introduction to Software Development](/books/IntroductionToSoftwareDevelopment.pdf) [EN]
+* [Introduction to Free Software](/books/IntroductionToFreeSoftware.pdf) [EN]
+### Inne
+* [https://libreplanet.org/wiki/Table_of_contents](libreplanet) [EN]
+* [https://anonymousplanet-ng.org/](The Hitchhiker’s Guide to Online Anonymity) [EN]
 
 ## Blogi:
 * TODO
 
 ## Artykuły:
-* [The Catedral and the Bazar. Eric Raymond](/books/TheCathedralAndTheBazar.pdf)
+* [The Catedral and the Bazar. Eric Raymond](/books/TheCathedralAndTheBazar.pdf) [EN]

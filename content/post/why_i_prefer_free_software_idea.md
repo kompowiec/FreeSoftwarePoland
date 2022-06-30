@@ -22,7 +22,7 @@ Dziś ten sam mechanizm jest wykorzystywany przez marketing, media, a następnie
 
 Tym sposobem dawno temu założyłem konto na Facebook'u, kupiłem parę rzeczy, które nawet okazały się zbędne.
 Szczególnie, gdy byłem młodszy polowałem na to co jest nowe. Można to porównać do miłośników Apple, którzy zawsze chcą być na czasie z nowym iPhone czy Macbookiem.
-Więc potrzebują szybko pozbyć się starego, aby cena mocno nie spadła i szykują sumę no nowy. Monitorując wszystkie nowinki, nawet te których nie potrzebują.
+Więc potrzebują szybko pozbyć się starego, aby cena mocno nie spadła i szykują sumę na nowy. Monitorując wszystkie nowinki, nawet te których nie potrzebują.
 
 
 ## Konstrukcja człowieka
@@ -94,3 +94,11 @@ Podsumowując, jest to moje spostrzeżenie, które przekonało mnie do zmiany po
 Uważam też, że nie ma lepszej możliwości do zmian jak zmiana środowiska i budowanie więzi społecznych o innych jakościach. Np. wspólne używanie "wolnych" rozwiązań.
 
 __@andrzejku__
+
+## Trzy grosze
+
+Koncepcja swobodnego udostępniania informacji technologicznych istniała na długo przed komputerami. Na przykład, we wczesnych latach rozwoju samochodów, jedno przedsiębiorstwo posiadało prawa do patentu na dwusuwowy silnik benzynowy pierwotnie zgłoszonego przez George'a B. Seldena. Kontrolując ten patent, byli w stanie zmonopolizować przemysł i zmusić producentów samochodów do przestrzegania ich żądań lub zaryzykować proces sądowy. W 1911 r. niezależny producent samochodów Henry Ford wygrał rywalizację o patent Seldena. W rezultacie patent Seldena stał się praktycznie bezwartościowy i utworzono nowe stowarzyszenie (które ostatecznie przekształciło się w Stowarzyszenie Producentów Pojazdów Silnikowych). Nowe stowarzyszenie ustanowiło porozumienie licencyjne między wszystkimi amerykańskimi producentami samochodów: chociaż każda firma opracowuje technologię i składa patenty, patenty te były udostępniane otwarcie i bez wymiany pieniędzy między wszystkimi producentami.
+
+Co zatem jest rdzeniem filozofii wolnego oprogramowania? Oczywiście wszystkie 4 wolności ale w tym kontekście ta ostatnia jest IMO najważniejsza. Po co się uczymy? Jaka jest motywacja? Moim zdaniem, by zastać świat lepszym, niż go zastali. Przykładowo, jak pogodzić się z faktem że jak umrę nic nie zostanie z tego co się nauczyłem? Dzięki udostępnianiu projektów w postaci wolnej, twórczość ta dalej będzie mogła swobodnie istnieć, wyewoluować (dzięki [https://pl.wiktionary.org/wiki/fork](forkowaniu)) i w pewnym sensie zostawisz ślad na zasadzie [https://en.wikipedia.org/wiki/Multiple_discovery](odkryć symultanicznych), co bardzo współgra z filozofią [https://pl.wikipedia.org/wiki/Anicca](anicca).
+
+__@kompowiec2__

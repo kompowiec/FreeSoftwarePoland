@@ -1,8 +1,9 @@
 ---
 title: "Co to jest wolne oprogramowanie?"
-date: <2022-05-10 Tue> 
+date: 2022-05-10T
 tags: ["filozofia"]
 draft: false
+---
 ---
 #+AUTHOR: kompowiec2
 #+DATE: <2022-05-09 Mon> 
@@ -42,9 +43,6 @@ Jeśli masz wszystkie 4 wolności, to jest to wolne oprogramowanie, użytkownicy
 - [[https://invidious.snopyta.org/watch?v=POJ9OSENgO4][ZMASLO - WOLNE oprogramowanie]] - Licencja Creative Commons – uznanie autorstwa (ponowne wykorzystanie dozwolone)
 - [[https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society][Free software, free society - Richard Stallman at TED]]
 - [[https://pl.wiktionary.org/wiki/wolne_oprogramowanie][Wolne oprogramowanie - Wikisłownik]]
-* Autorzy
-Kompowiec2
-
 * Co to właściwie jest...
 [fn:0] **komputer** to uniwersalna maszyna, którą można zaprogramować do automatycznego wykonywania sekwencji operacji arytmetycznych lub logicznych. Współczesne komputery mogą wykonywać ogólne zestawy operacji znane jako programy. Programy te umożliwiają komputerom wykonywanie szerokiego zakresu zadań.
 
@@ -55,3 +53,5 @@ Kompowiec2
 [fn:3] **Kod źródłowy** - to treść instrukcji programu, który najczęściej jest czystym tekstem
 
 [fn:4] **Plik wykonywalny** bądź też **kod maszynowy** - Jest to język rozumiany przez procesor komputera. Procesor jest w każdym komputerze, czy jest to stacjonarny komputer czy smartfon, wszystko to działa dzięki temu, że posiada procesor i właśnie cały ten kod maszynowy, to taki język na którym pracuje nasz sprzęt, język na którym pracuje nasz procesor. Przede wszystkim jest to język przeznaczony dla maszyny, nieczytelny dla człowieka, czyli procesor jest w stanie ten kod maszynowy odczytać, zrozumieć, ale my raczej z tym będziemy mieli problemy, dla nas będzie raczej nieczytelny. I przede wszytkim, te właśnie polecenia, które piszemy w zwykłym języku programowania, są konwertowane na kod maszynowy zrozumiały przez komputer. Bo komputer rozumie tylko ten kod maszynowy, on nie rozumie bezpośrednio tych wszystkich instrukcji które napiszemy w dowolnym języku programowania, one właśnie muszą być najpierw przekonwetowane z tego normalnego języka programowania do tego wyjściowego kodu maszynowego, tak żeby procesor mógł te wszystkie instruckje, polecenia, zrozumieć.
+
+@kompowiec2
