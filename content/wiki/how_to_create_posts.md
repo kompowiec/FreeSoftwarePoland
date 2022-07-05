@@ -55,7 +55,7 @@ W razie problemu, użyj git submodule update --force --recursive --init --remote
     W katalogu /public/ znajduje się statyczna strona w html, nie edytuj, wygeneruje je Hugo!
     Aby dodawać nowe posty powinieneś zainstalować tą aplikację.
     Następnie edytujesz plik w swoim ulubionym [edytorze](https://www.gnu.org/software/emacs/), używając znaczników markdown bądź [org](https://orgmode.org/)
-    Gdy będziesz w głównym katalogu www, przy pomocy ```$ hugo new``` wygenerujesz nowy wpis na bloga. Edytuj plik /content/post/tytul_postu.md
+    Gdy będziesz w głównym katalogu www, przy pomocy ```$ hugo -D``` wygenerujesz nowy wpis na bloga. Edytuj plik /content/post/tytul_postu.md
     W razie zobaczenia pustej strony, patrz punkt 6.
     Gdy skończysz uruchom ```$ hugo server``` pozwoli to zobaczyć zmiany na żywo pod adresem http://localhost:1313
     Jeśli zmiany są ok, przejdź dalej.
