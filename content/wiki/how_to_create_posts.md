@@ -47,6 +47,7 @@ Strona musi znajdować się w repozytorium 'pages', jak to działa wyjaśnione j
 
     $ git submodule update --remote themes/minimal	
     ```
+W razie problemu, użyj git submodule update --force --recursive --init --remote zamiast git submodule update
 
 7. Repozytorium jest generatorem statycznej strony opartej na [Hugo](https://gohugo.io/getting-started/quick-start/)
     
